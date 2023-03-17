@@ -1,4 +1,4 @@
-# GPT-3.5-turbo-API
+# GPT-3.5-turbo
 
 
 ## Why Use an OpenAI API? 
